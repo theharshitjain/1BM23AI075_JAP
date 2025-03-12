@@ -1,0 +1,11 @@
+Welcome to the gym
+Enter number of members:
+5
+Enter your name
+harshit
+Enter your age:
+20
+Enter your membership Status:
+true
+Enter your membership duration:
+6
