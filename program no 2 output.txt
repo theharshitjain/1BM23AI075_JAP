@@ -1,0 +1,24 @@
+The value of intValue is 5
+The value of intObj (after autoboxing) is 5
+The value of intUnboxed (after unboxing) is 5
+The value of charValue is A
+The value of charObj (after autoboxing) is A
+The value of charUnboxed (after unboxing) is A
+The value of byteValue is 10
+The value of byteObj (after autoboxing) is 10
+The value of byteUnboxed (after unboxing) is 10
+The value of shortValue is 100
+The value of shortObj (after autoboxing) is 100
+The value of shortUnboxed (after unboxing) is 100
+The value of longValue is 1000
+The value of longObj (after autoboxing) is 1000
+The value of longUnboxed (after unboxing) is 1000
+The value of floatValue is 9.76
+The value of floatObj (after autoboxing) is 9.76
+The value of floatUnboxed (after unboxing) is 9.76
+The value of doubleValue is 99.99
+The value of doubleObj (after autoboxing) is 99.99
+The value of doubleUnboxed (after unboxing) is 99.99
+The value of booleanValue is true
+The value of booleanObj (after autoboxing) is true
+The value of booleanUnboxed (after unboxing) is true
