@@ -1,0 +1,8 @@
+Boxing and Unboxing Demo:
+Boxed Integer: 10 --> Unboxed Integer: 10
+Boxed Float: 5.5 --> Unboxed Float: 5.5
+Boxed Byte: 100 --> Unboxed Byte: 100
+Boxed Character: A --> Unboxed Character: A
+String: Hello
+
+Process finished with exit code 0
