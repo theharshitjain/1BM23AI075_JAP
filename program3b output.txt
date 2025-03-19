@@ -1,0 +1,8 @@
+Capacity of stringbuffer object sb1:16
+Capacity of stringbuffer object sb2:21
+Enter a string:
+ sohail khan
+Reverse string in uppercase:nahk liahos 
+Enter another string:
+pathan
+Concatenated sting: sohail khanpathan
