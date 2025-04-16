@@ -1,0 +1,7 @@
+All Products:
+Name: Phone, Price: 699.99, Category: Electronics
+Name: Backpack, Price: 39.99, Category: Accessories
+Name: Pen, Price: 1.99, Category: Stationery
+After Removing 'Backpack':
+Name: Phone, Price: 699.99, Category: Electronics
+Name: Pen, Price: 1.99, Category: Stationery
