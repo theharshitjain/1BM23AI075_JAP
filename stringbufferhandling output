@@ -1,0 +1,13 @@
+Task i - Capacity Check:
+Capacity of StringBuffer object sb1: 16
+Capacity of StringBuffer object sb2: 21
+
+Task ii - Reverse and Uppercase:
+Enter a string: HELLO
+Reversed string in uppercase: OLLEH
+
+Task iii - Appending Input:
+Enter a string to append: WORLD
+String after appending:OLLEHWORLD
+
+Process finished with exit code 0
